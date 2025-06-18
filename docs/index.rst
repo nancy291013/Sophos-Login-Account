@@ -7,7 +7,8 @@ How to Login  Your Sophos Account?
   
 In today's world of cybersecurity, you need a way to keep your digital assets safe that you can trust. **Sophos** is a well-known name in the field that provides security solutions for businesses, individuals, and institutions alike. Sophos offers a full set of powerful and easy-to-use tools for protecting networks, devices, and data. You need to log into your Sophos account first to be able to use these features.
 
-  .. image:: click-login.png
+  
+.. image:: click-login.png
    :alt: My Project Logo
    :width: 400px
    :align: center
